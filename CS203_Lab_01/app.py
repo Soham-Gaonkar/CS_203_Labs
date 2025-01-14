@@ -30,9 +30,8 @@ trace.get_tracer_provider().add_span_processor(
 )
 console_exporter = ConsoleSpanExporter()
 
-
 # Metrics Setup
-metric_reader = PeriodicExportingMetricReader(ConsoleMetricExporter(),export_interval_millis= 10000)
+metric_reader = PeriodicExportingMetricReader(ConsoleMetricExporter(),export_interval_millis= 15000)
 meter_provider = MeterProvider(metric_readers=[metric_reader])
 meter = meter_provider.get_meter('meter') # global meter instance
 
@@ -51,6 +50,7 @@ class Json_Formatter(logging.Formatter):
             'message': record.getMessage(),
             'logger_name': record.name,
         }
+        print(json.dumps(log_record)) # Print the log record to the console
         return json.dumps(log_record)
 
 # Logging Setup

@@ -1,0 +1,32 @@
+{"timestamp": 1736848912.591496, "level": "INFO", "message": "{'event': 'Index_page_loaded', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
+{"timestamp": 1736848932.140765, "level": "INFO", "message": "{'event': 'Index_page_loaded', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
+{"timestamp": 1736848933.1615477, "level": "INFO", "message": "{'event': 'Course_catalog_loaded', 'user_ip': '127.0.0.1', 'courses_count': 5}", "logger_name": "__main__"}
+{"timestamp": 1736848964.1429634, "level": "INFO", "message": "{'event': 'Course_details_loaded', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
+{"timestamp": 1736848975.621162, "level": "INFO", "message": "{'event': 'Course_catalog_loaded', 'user_ip': '127.0.0.1', 'courses_count': 5}", "logger_name": "__main__"}
+{"timestamp": 1736849007.2493515, "level": "INFO", "message": "{'event': 'Add_course_page_loaded', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
+{"timestamp": 1736849026.128167, "level": "INFO", "message": "{'event': 'Index_page_loaded', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
+{"timestamp": 1736849027.6463022, "level": "INFO", "message": "{'event': 'Course_catalog_loaded', 'user_ip': '127.0.0.1', 'courses_count': 5}", "logger_name": "__main__"}
+{"timestamp": 1736849029.2742622, "level": "INFO", "message": "{'event': 'Course_catalog_loaded', 'user_ip': '127.0.0.1', 'courses_count': 5}", "logger_name": "__main__"}
+{"timestamp": 1736849031.1573288, "level": "INFO", "message": "{'event': 'Add_course_page_loaded', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
+{"timestamp": 1736849047.318804, "level": "INFO", "message": "{'event': 'Add_course_page_loaded', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
+{"timestamp": 1736849047.3218043, "level": "WARNING", "message": "{'event': 'Form_validation_warning', 'missing_field': 'instructor', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
+{"timestamp": 1736849047.322802, "level": "INFO", "message": "{'event': 'Form_validation_failed', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
+{"timestamp": 1736849047.3535438, "level": "INFO", "message": "{'event': 'Add_course_page_loaded', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
+{"timestamp": 1736849152.1901913, "level": "INFO", "message": "{'event': 'Add_course_page_loaded', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
+{"timestamp": 1736849152.1961656, "level": "INFO", "message": "{'event': 'Course_added', 'user_ip': '127.0.0.1', 'course_name': 'Machine Learning'}", "logger_name": "__main__"}
+{"timestamp": 1736849152.2210844, "level": "INFO", "message": "{'event': 'Course_catalog_loaded', 'user_ip': '127.0.0.1', 'courses_count': 6}", "logger_name": "__main__"}
+{"timestamp": 1736849160.537941, "level": "INFO", "message": "{'event': 'Course_details_loaded', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
+{"timestamp": 1736849163.1317556, "level": "INFO", "message": "{'event': 'Course_catalog_loaded', 'user_ip': '127.0.0.1', 'courses_count': 6}", "logger_name": "__main__"}
+{"timestamp": 1736849163.9241726, "level": "INFO", "message": "{'event': 'Add_course_page_loaded', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
+{"timestamp": 1736849192.1624405, "level": "INFO", "message": "{'event': 'Index_page_loaded', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
+{"timestamp": 1736849193.182585, "level": "INFO", "message": "{'event': 'Course_catalog_loaded', 'user_ip': '127.0.0.1', 'courses_count': 6}", "logger_name": "__main__"}
+{"timestamp": 1736849195.899194, "level": "INFO", "message": "{'event': 'Course_details_loaded', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
+{"timestamp": 1736849243.4113472, "level": "INFO", "message": "{'event': 'Course_catalog_loaded', 'user_ip': '127.0.0.1', 'courses_count': 6}", "logger_name": "__main__"}
+{"timestamp": 1736849251.075686, "level": "INFO", "message": "{'event': 'Course_details_loaded', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
+{"timestamp": 1736849254.8033674, "level": "INFO", "message": "{'event': 'Course_not_found', 'user_ip': '127.0.0.1', 'course_code': 'CS109'}", "logger_name": "__main__"}
+{"timestamp": 1736849254.814126, "level": "INFO", "message": "{'event': 'Course_catalog_loaded', 'user_ip': '127.0.0.1', 'courses_count': 6}", "logger_name": "__main__"}
+{"timestamp": 1736849317.3220146, "level": "ERROR", "message": "{'event': 'Unhandled_exception', 'error_type': 'NotFound', 'error_message': '404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.', 'path': '/laksh', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
+{"timestamp": 1736849317.3220146, "level": "INFO", "message": "{'event': 'Page_not_found', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
+{"timestamp": 1736849322.859555, "level": "ERROR", "message": "{'event': 'Unhandled_exception', 'error_type': 'NotFound', 'error_message': '404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.', 'path': '/soham', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
+{"timestamp": 1736849322.859555, "level": "INFO", "message": "{'event': 'Page_not_found', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
+{"timestamp": 1736849330.3620257, "level": "INFO", "message": "{'event': 'Index_page_loaded', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}

@@ -58,11 +58,11 @@
         "code": "ES 335",
         "name": "Machine Learning",
         "instructor": "Nipun Batra",
-        "semester": "3 rd Sem",
+        "semester": "3rd Sem",
         "schedule": "N1 N2",
         "classroom": "AB 10/103",
         "prerequisites": "-",
-        "grading": "A+ >98 ,A 90>,A- 80>",
-        "description": "Recommended for second year students."
+        "grading": "A+ >98 , A >90 , B >80",
+        "description": "Recommended for second year students"
     }
 ]

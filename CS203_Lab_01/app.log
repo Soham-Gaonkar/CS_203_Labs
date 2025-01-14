@@ -30,3 +30,9 @@
 {"timestamp": 1736849322.859555, "level": "ERROR", "message": "{'event': 'Unhandled_exception', 'error_type': 'NotFound', 'error_message': '404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.', 'path': '/soham', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
 {"timestamp": 1736849322.859555, "level": "INFO", "message": "{'event': 'Page_not_found', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
 {"timestamp": 1736849330.3620257, "level": "INFO", "message": "{'event': 'Index_page_loaded', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
+{"timestamp": 1736850979.0161455, "level": "INFO", "message": "{'event': 'Index_page_loaded', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
+{"timestamp": 1736850980.8158545, "level": "INFO", "message": "{'event': 'Course_catalog_loaded', 'user_ip': '127.0.0.1', 'courses_count': 5}", "logger_name": "__main__"}
+{"timestamp": 1736850982.3775103, "level": "INFO", "message": "{'event': 'Add_course_page_loaded', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
+{"timestamp": 1736851039.2757838, "level": "INFO", "message": "{'event': 'Add_course_page_loaded', 'user_ip': '127.0.0.1'}", "logger_name": "__main__"}
+{"timestamp": 1736851039.283781, "level": "INFO", "message": "{'event': 'Course_added', 'user_ip': '127.0.0.1', 'course_name': 'Machine Learning'}", "logger_name": "__main__"}
+{"timestamp": 1736851039.3284073, "level": "INFO", "message": "{'event': 'Course_catalog_loaded', 'user_ip': '127.0.0.1', 'courses_count': 6}", "logger_name": "__main__"}
